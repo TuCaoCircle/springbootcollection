@@ -1,0 +1,11 @@
+person:
+  name: chenjiawei
+  age: 22
+  list:
+    - 1
+    - 2
+    - 3
+  map: {yyyy: son,ygj: son}
+  son:
+    name: ygj
+    age: 9999
